@@ -1,6 +1,6 @@
 type Matchers = [string, number?];
 
-export const libraryName = 'arco-admin';
+export const libraryName = 'arco-ui';
 
 export const iconCjsListMatchers: Matchers = [`${libraryName}/icon/index\\.js[^/]*$`];
 
